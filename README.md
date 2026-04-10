@@ -66,4 +66,4 @@ A simulated attack was performed on a vulnerable system. The attack was detected
 This project demonstrates the complete SOC workflow and highlights the importance of structured incident response and documentation in cybersecurity operations.
 
 ## Author
-SOC Internship – Week 2
+Vishvaraj SOC Internship – Week 2
